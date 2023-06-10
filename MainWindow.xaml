@@ -1,0 +1,27 @@
+﻿<Window x:Class="Examen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Examen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="texto1" HorizontalAlignment="Left" Margin="154,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-0.129,0.281"/>
+        <TextBox x:Name="texto2" HorizontalAlignment="Left" Margin="154,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-0.046,0.559"/>
+        <TextBox x:Name="texto3" HorizontalAlignment="Left" Margin="154,106,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Producto Anterior" HorizontalAlignment="Left" Margin="100,217,0,0" VerticalAlignment="Top" Click="Button_Click_4"/>
+        <Button Content="Siguiente Producto" HorizontalAlignment="Left" Margin="271,217,0,0" VerticalAlignment="Top" Click="Button_Click_3"/>
+        <Button Content="Agregar Productos" HorizontalAlignment="Center" Margin="0,76,0,0" VerticalAlignment="Top" Click="Button_Click_2"/>
+        <Button Content="Buscar Producto en Especifico" HorizontalAlignment="Center" Margin="0,37,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button Content="Eliminar Productos" HorizontalAlignment="Center" Margin="0,115,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>
+        <Label Content="Codigo" HorizontalAlignment="Left" Margin="57,29,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="texto4" HorizontalAlignment="Left" Margin="154,142,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="48,63,0,0" VerticalAlignment="Top"/>
+        <Label Content="Descripcion" HorizontalAlignment="Left" Margin="57,100,0,0" VerticalAlignment="Top"/>
+        <Label Content="Precio" HorizontalAlignment="Left" Margin="44,134,0,0" VerticalAlignment="Top"/>
+        <Label Content="Disponible" HorizontalAlignment="Left" Margin="42,165,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="texto5" HorizontalAlignment="Left" Margin="154,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

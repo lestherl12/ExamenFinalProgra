@@ -1,0 +1,56 @@
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\bin\Debug\net6.0-windows\Examen.exe
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\bin\Debug\net6.0-windows\Examen.deps.json
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\bin\Debug\net6.0-windows\Examen.runtimeconfig.json
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\bin\Debug\net6.0-windows\Examen.dll
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\bin\Debug\net6.0-windows\Examen.pdb
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\Examen.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\Examen_MarkupCompile.cache
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\Examen_MarkupCompile.lref
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\Examen.g.resources
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\Examen.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\Examen.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\Examen.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\Examen.dll
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\refint\Examen.dll
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\Examen.pdb
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\Examen.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\Examen\obj\Debug\net6.0-windows\ref\Examen.dll
+C:\Users\leste\OneDrive\Desktop\Examen\bin\Debug\net6.0-windows\Examen.exe
+C:\Users\leste\OneDrive\Desktop\Examen\bin\Debug\net6.0-windows\Examen.deps.json
+C:\Users\leste\OneDrive\Desktop\Examen\bin\Debug\net6.0-windows\Examen.runtimeconfig.json
+C:\Users\leste\OneDrive\Desktop\Examen\bin\Debug\net6.0-windows\Examen.dll
+C:\Users\leste\OneDrive\Desktop\Examen\bin\Debug\net6.0-windows\Examen.pdb
+C:\Users\leste\OneDrive\Desktop\Examen\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\leste\OneDrive\Desktop\Examen\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\leste\OneDrive\Desktop\Examen\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\leste\OneDrive\Desktop\Examen\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\leste\OneDrive\Desktop\Examen\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leste\OneDrive\Desktop\Examen\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\Examen.csproj.AssemblyReference.cache
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\Examen_MarkupCompile.cache
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\Examen_MarkupCompile.lref
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\Examen.g.resources
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\Examen.AssemblyInfoInputs.cache
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\Examen.AssemblyInfo.cs
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\Examen.csproj.CoreCompileInputs.cache
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\Examen.csproj.CopyComplete
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\Examen.dll
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\refint\Examen.dll
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\Examen.pdb
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\Examen.genruntimeconfig.cache
+C:\Users\leste\OneDrive\Desktop\Examen\obj\Debug\net6.0-windows\ref\Examen.dll
